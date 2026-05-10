@@ -248,8 +248,8 @@ Intelligent-Disaster-Response-Agent/
 ## 👥 Contributors & Acknowledgements
 
 <p align="center">
+    <b>Sabahat</b> (01-134241-041)<br/>
   <b>Rana Muhammad Ahmed</b> (01-134241-039)<br/>
-  <b>Sabahat</b> (01-134241-041)<br/>
   Department of Computer Science<br/>
   Bahria University Islamabad Campus
 </p>
