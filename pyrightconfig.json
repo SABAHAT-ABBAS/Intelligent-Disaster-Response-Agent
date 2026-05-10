@@ -1,0 +1,14 @@
+{
+  "venvPath": "aidra",
+  "venv": ".venv",
+  "extraPaths": ["aidra/src"],
+  "executionEnvironments": [
+    {
+      "root": "aidra",
+      "extraPaths": ["src"],
+      "venvPath": "aidra",
+      "venv": ".venv"
+    }
+  ]
+}
+
