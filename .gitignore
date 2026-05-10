@@ -1,0 +1,22 @@
+# Python build / caches
+__pycache__/
+*.py[cod]
+*.pyo
+
+# VS Code settings
+.vscode/
+
+# Python environments and secrets
+.env
+venv/
+.venv/
+.env.local
+
+# Generated artifacts and logs
+*.log
+*.err
+
+# Project-specific generated artifacts
+aidra/logs/
+aidra/models/
+aidra/results/
